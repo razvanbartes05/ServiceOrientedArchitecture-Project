@@ -1,0 +1,8 @@
+.todo {
+  &:hover {
+    background-color: rgba(164, 160, 222, 0.062);
+  }
+}
+.completed {
+  background-color: rgba(0, 128, 0, 0.316);
+}
